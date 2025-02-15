@@ -1,5 +1,5 @@
 # P12ConverterApp
-Aplicación para convertir las llaves criptográficas del Ministerio de hacienda a llaves criptográficas con algoritmos más modernos. Esto suprimirá la necesidad de utilizar openssl en modo legacy, ya que algunos servidores no lo tienen activado ni lo activarán aunque uno lo solicite.
+Aplicación para convertir las llaves criptográficas del Ministerio de hacienda a llaves criptográficas con algoritmos más modernos. Esto suprimirá la necesidad de utilizar openssl en modo legacy, ya que algunos servidores no lo tienen activado ni lo activarán aunque uno lo solicite (También funcionará para cualquier archivo.p12 que haya sido creado con versiones viejas de openssl y deba ser actualizado).
 
 Instrucciones:
 
