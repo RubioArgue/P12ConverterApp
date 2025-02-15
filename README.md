@@ -17,3 +17,5 @@ Ejemplo: Si desea convertir el archivo 123456789.p12 obtendrá el archivo 123456
 
 Nota: Para el correcto funcionamiento de la aplicación es necesario tener la carpeta openssl en la misma carpeta que P12ConverterApp.exe.
 
+Aquí la aplicación ya compilada y lista para utilizar: https://drive.google.com/file/d/1zob2HN_xbHhTFhkP85nEf1mhnlkw5-M-/view?usp=sharing
+
